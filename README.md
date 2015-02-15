@@ -1,7 +1,7 @@
 # Cleaning-Data-Course-Project
-##run_analysis.R
+##The analysis is done by running run_analysis.R.
 
-###This script assumes that the file is downloaded to the designated folder, the same one that the script would be run from. 
+###This script assumes that the file is downloaded to the designated folder, the same folder that the script would be run from. 
 
 ### Steps of data processing/cleaning
 ### 1) load the feature dataset
